@@ -16,7 +16,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas com formação prática em desenvolvimento Fullstack pela **Residência em TIC-20** (Programa Federal — 480h), certificado por UECE, Atlântico e Softex.
 
-Atuei em projeto SaaS real durante o programa, desenvolvendo interfaces com React.js e integrando APIs REST com Node.js e PostgreSQL. Atualmente em jornada dupla: trabalho formal enquanto busco minha primeira oportunidade como estagiário em desenvolvimento web — presencial em Fortaleza/Maracanaú ou remoto.
+Atuei em projetos reais durante o programa, desenvolvendo interfaces com React.js e integrando APIs REST com Node.js e PostgreSQL. Atualmente em jornada dupla: trabalho formal enquanto busco minha primeira oportunidade como estagiário em desenvolvimento web — presencial em Fortaleza/Maracanaú ou remoto.
 
 ---
 
@@ -54,6 +54,12 @@ Sistema completo de gerenciamento de produção de calçados. Desafio técnico f
 ### ICARIR — Plataforma SaaS de Gamificação
 Projeto real desenvolvido durante a Residência TIC-20 em empresa parceira. Dashboard interativo com gamificação para engajamento de usuários. Stack: React.js, Tailwind CSS, Node.js, PostgreSQL.
 
+### [Tecnobits — E-commerce de Hardware](https://projeto-inter-capacita-frontend.onrender.com/)
+Projeto de equipe desenvolvido durante a Residência TIC-20. Loja completa de componentes de hardware com autenticação JWT, carrinho, checkout e fluxo de vendedores com aprovação de admin. Atuei no desenvolvimento do frontend e integração com a API REST.
+Stack: React 19, Vite, Axios, Node.js, Express, Prisma, PostgreSQL.
+
+> 🔗 [Ver repositório](https://github.com/daniolivem/projeto-inter-capacita) · [Ver deploy](https://projeto-inter-capacita-frontend.onrender.com/)
+
 ---
 
 ## 📊 GitHub Stats
@@ -78,6 +84,7 @@ Projeto real desenvolvido durante a Residência TIC-20 em empresa parceira. Dash
 |---|---|---|---|
 | Residência em TIC-20 — Desenvolvimento Fullstack | Capacita Brasil · UECE · Atlântico · Softex | 480h | Em andamento (conclusão dez/2025) |
 | Análise e Desenvolvimento de Sistemas | Universidade Estácio de Sá | — | Cursando · Previsão 2026 |
+| HTML Avançado | Fundação Bradesco | — | Concluído |
 
 **Módulos da Residência TIC-20:**
 - 📘 Técnico (240h): HTML, CSS, JavaScript ES6+, React.js, Node.js, integração Frontend/Backend, banco de dados

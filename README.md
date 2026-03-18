@@ -26,8 +26,10 @@ Atuei em projetos reais durante o programa, desenvolvendo interfaces com React.j
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Back-end & Banco de Dados**
@@ -54,11 +56,11 @@ Sistema completo de gerenciamento de produção de calçados. Desafio técnico f
 ### ICARIR — Plataforma SaaS de Gamificação
 Projeto real desenvolvido durante a Residência TIC-20 em empresa parceira. Dashboard interativo com gamificação para engajamento de usuários. Stack: React.js, Tailwind CSS, Node.js, PostgreSQL.
 
-### [Tecnobits — E-commerce de Hardware](https://projeto-inter-capacita-frontend.onrender.com/)
+### [Tecnobits — E-commerce de Hardware](https://innovative-cat-production.up.railway.app)
 Projeto de equipe desenvolvido durante a Residência TIC-20. Loja completa de componentes de hardware com autenticação JWT, carrinho, checkout e fluxo de vendedores com aprovação de admin. Atuei no desenvolvimento do frontend e integração com a API REST.
 Stack: React 19, Vite, Axios, Node.js, Express, Prisma, PostgreSQL.
 
-> 🔗 [Ver repositório](https://github.com/daniolivem/projeto-inter-capacita) · [Ver deploy](https://projeto-inter-capacita-frontend.onrender.com/)
+> 🔗 [Ver repositório](https://github.com/CarlosAnjos21/tecnobits-ecommerce) · [Ver deploy](https://innovative-cat-production.up.railway.app)
 
 ---
 
@@ -82,7 +84,7 @@ Stack: React 19, Vite, Axios, Node.js, Express, Prisma, PostgreSQL.
 
 | Curso | Instituição | Carga Horária | Situação |
 |---|---|---|---|
-| Residência em TIC-20 — Desenvolvimento Fullstack | Capacita Brasil · UECE · Atlântico · Softex | 480h | Em andamento (conclusão dez/2025) |
+| Residência em TIC-20 — Desenvolvimento Fullstack | Capacita Brasil · UECE · Atlântico · Softex | 480h | Concluída |
 | Análise e Desenvolvimento de Sistemas | Universidade Estácio de Sá | — | Cursando · Previsão 2026 |
 | HTML Avançado | Fundação Bradesco | — | Concluído |
 

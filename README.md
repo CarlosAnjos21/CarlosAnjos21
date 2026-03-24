@@ -53,14 +53,14 @@ Atuei em projetos reais durante o programa, desenvolvendo interfaces com React.j
 ### [SoleTrack — Sistema Fullstack de Gestão de Calçados](https://github.com/CarlosAnjos21/soletrack-fullstack-internship-challenge/tree/carlos-anjos)
 Sistema completo de gerenciamento de produção de calçados. Desafio técnico fullstack com Node.js, Prisma ORM, PostgreSQL e React.
 
-### ICARIR — Plataforma SaaS de Gamificação
+### [ICARIR — Plataforma SaaS de Gamificação](https://github.com/CarlosAnjos21/SaaS_Icarir)
 Projeto real desenvolvido durante a Residência TIC-20 em empresa parceira. Dashboard interativo com gamificação para engajamento de usuários. Stack: React.js, Tailwind CSS, Node.js, PostgreSQL.
 
-### [Tecnobits — E-commerce de Hardware](https://innovative-cat-production.up.railway.app)
-Projeto de equipe desenvolvido durante a Residência TIC-20. Loja completa de componentes de hardware com autenticação JWT, carrinho, checkout e fluxo de vendedores com aprovação de admin. Atuei no desenvolvimento do frontend e integração com a API REST.
+### [Tecnobits — E-commerce de Hardware](https://github.com/CarlosAnjos21/tecnobits-ecommerce)
+Projeto de equipe desenvolvido durante a Residência TIC-20. Loja completa de componentes de hardware com autenticação JWT, carrinho, checkout e fluxo de vendedores com aprovação de admin. Atuei no desenvolvimento do frontend e integração com a API REST.  
 Stack: React 19, Vite, Axios, Node.js, Express, Prisma, PostgreSQL.
 
-> 🔗 [Ver repositório](https://github.com/CarlosAnjos21/tecnobits-ecommerce) · [Ver deploy](https://innovative-cat-production.up.railway.app)
+> 🔗 [Ver repositório](https://github.com/CarlosAnjos21/tecnobits-ecommerce)
 
 ---
 

@@ -1,81 +1,306 @@
-# Carlos Anjos
+<div align="center">
 
-### Desenvolvedor Fullstack | React.js • Node.js • TypeScript
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:61DAFB,100:0D1117&text=Carlos%20Anjos&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn"/>
 
-Desenvolvedor Fullstack com experiência prática em aplicações web utilizando React.js, TypeScript, Node.js e PostgreSQL. Atuação em projetos SaaS e aplicações fullstack durante a Residência em TIC-20, programa federal com 480 horas certificadas por UECE, Atlântico e Softex.
+# 👋 Olá, eu sou Carlos Anjos
 
-Experiência em desenvolvimento de interfaces responsivas, integração com APIs REST, componentização, gerenciamento de estado, Git, code review e metodologias ágeis (Scrum), com maior foco em desenvolvimento Front-end React.
+### Desenvolvedor Frontend • React.js • TypeScript • Node.js
 
-📍 Ceará, Brasil
-🎓 Estudante de Análise e Desenvolvimento de Sistemas — Estácio
-💻 Foco em Front-end React e aplicações web escaláveis
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=61DAFB&center=true&vCenter=true&width=850&lines=Desenvolvedor+Frontend;React.js+%7C+TypeScript+%7C+Node.js;Construindo+aplica%C3%A7%C3%B5es+modernas;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo"/>
+
+<br>
+
+<a href="https://www.linkedin.com/in/carlosanjos22">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/CarlosAnjos21">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=carlosotacilio65@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## Tecnologias
+# 🚀 Sobre mim
 
-### Front-end
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e Desenvolvedor Frontend apaixonado por criar interfaces modernas, intuitivas e responsivas.
 
-React.js • TypeScript • JavaScript ES6+ • Tailwind CSS • HTML5 • CSS3 • Vite
+Atualmente participo da **Residência TIC-20 (UECE • Atlântico • Softex)**, desenvolvendo aplicações reais em equipe utilizando React.js, Tailwind CSS, APIs REST, Git e metodologias ágeis.
 
-### Back-end e Banco de Dados
+Tenho experiência prática no desenvolvimento Full Stack utilizando **React.js, TypeScript, Node.js, Prisma ORM e PostgreSQL**, sempre buscando escrever código limpo, reutilizável e escalável.
 
-Node.js • Express • PostgreSQL • Prisma ORM • APIs REST
+🎯 **Objetivo:** conquistar uma oportunidade como Desenvolvedor Frontend ou Full Stack Júnior.
+
+---
+
+# 🛠️ Stack Tecnológica
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite"/>
+
+<br><br>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma"/>
+
+<br><br>
 
 ### Ferramentas
 
-Git • GitHub • Bitbucket • VS Code • Figma • Scrum
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,figma"/>
+
+</div>
 
 ---
 
-## Projetos em Destaque
+# 💼 Experiência
 
-### ICARIR — Plataforma SaaS de Gamificação
+### 🚀 Residência TIC-20
 
-Projeto real desenvolvido durante a Residência TIC-20 em parceria com empresa. Desenvolvimento de dashboard interativo com React.js, Tailwind CSS, Node.js e PostgreSQL, utilizando integração com APIs REST, componentização e colaboração em equipe com Git e code review.
-
-🔗 Repositório:
-https://github.com/CarlosAnjos21/SaaS_Icarir
-
----
-
-### Tecnobits — E-commerce de Hardware
-
-Aplicação fullstack de e-commerce com autenticação JWT, carrinho de compras, checkout e fluxo de vendedores com aprovação administrativa.
-
-Stack utilizada: React.js, Vite, Axios, Node.js, Express, Prisma ORM e PostgreSQL.
-
-🔗 Repositório:
-https://github.com/CarlosAnjos21/tecnobits-ecommerce
+- Desenvolvimento de aplicações SaaS
+- React.js
+- Tailwind CSS
+- Node.js
+- PostgreSQL
+- APIs REST
+- Scrum
+- Git
+- Code Review
 
 ---
 
-### SoleTrack — Sistema de Gestão de Calçados
+### 🏭 Dakota Calçados
 
-Sistema fullstack com arquitetura desacoplada entre front-end e back-end, utilizando CRUD completo, APIs REST e PostgreSQL.
-
-🔗 Repositório:
-https://github.com/CarlosAnjos21/soletrack-fullstack-internship-challenge
+Experiência que inspirou o desenvolvimento do **SoleTrack**, sistema para gerenciamento da produção industrial de calçados.
 
 ---
 
-## Formação
+# 📌 Projetos em Destaque
 
-**Análise e Desenvolvimento de Sistemas**
-Universidade Estácio de Sá — Cursando (Previsão: 2026)
+<table>
 
-**Residência em TIC-20 — Desenvolvimento Fullstack**
-Capacita Brasil · UECE · Atlântico · Softex — 480h
+<tr>
+
+<td width="50%" valign="top">
+
+## 🏭 SoleTrack
+
+Sistema Full Stack para gerenciamento da produção de calçados.
+
+✔ React
+
+✔ Node.js
+
+✔ Prisma ORM
+
+✔ PostgreSQL
+
+<br>
+
+<a href="https://github.com/CarlosAnjos21/soletrack-fullstack-internship-challenge">
+
+<img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/Demo-61DAFB?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛒 Tecnobits
+
+E-commerce Full Stack.
+
+✔ React
+
+✔ Express
+
+✔ PostgreSQL
+
+✔ JWT
+
+<br>
+
+<a href="https://github.com/CarlosAnjos21/tecnobits-ecommerce">
+
+<img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/Demo-61DAFB?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎮 ICARIR
+
+Plataforma SaaS desenvolvida durante a Residência TIC-20.
+
+✔ React
+
+✔ Tailwind CSS
+
+✔ APIs REST
+
+<br>
+
+<a href="https://github.com/CarlosAnjos21/SaaS_Icarir">
+
+<img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚧 Próximo Projeto
+
+Em breve:
+
+- Next.js
+- Docker
+- Testes
+- CI/CD
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## Contato
+# 📊 Estatísticas do GitHub
 
-LinkedIn:
-https://linkedin.com/in/carlosanjos22
+<div align="center">
 
-GitHub:
-https://github.com/CarlosAnjos21
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CarlosAnjos21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-Email:
-mailto:carlosotacilio65@gmail.com
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAnjos21&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=CarlosAnjos21&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=CarlosAnjos21&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Gráfico de Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosAnjos21&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Atualmente estudando
+
+<div align="center">
+
+| 🚀 Tecnologia | 📚 Status |
+|:-------------|:---------:|
+| React Avançado | ✅ |
+| TypeScript | ✅ |
+| Next.js | 🚧 |
+| Node.js | ✅ |
+| PostgreSQL | ✅ |
+| Docker | 🚧 |
+| Clean Architecture | 🚧 |
+| Testes (Jest/Vitest) | 🚧 |
+
+</div>
+
+---
+
+# 🎯 Objetivos para 2026
+
+- ✅ Consolidar React e TypeScript
+- 🚀 Aprimorar conhecimentos em Next.js
+- 🏗️ Evoluir em Arquitetura de Software
+- 🧪 Aprender testes automatizados
+- 🐳 Utilizar Docker em projetos
+- 💼 Conquistar uma oportunidade como Desenvolvedor Frontend
+
+---
+
+# 📫 Vamos nos conectar?
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/carlosanjos22" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/CarlosAnjos21" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=carlosotacilio65@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-Entrar%20em%20Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Obrigado pela visita!
+
+Se você gostou dos meus projetos, deixe uma ⭐ nos repositórios ou vamos conversar pelo LinkedIn.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0D1117,50:61DAFB,100:0D1117"/>
+
+</div>

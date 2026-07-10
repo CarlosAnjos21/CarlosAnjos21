@@ -32,13 +32,15 @@
 
 # 🚀 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e Desenvolvedor Frontend apaixonado por criar interfaces modernas, intuitivas e responsivas.
+Olá, sou Carlos Anjos, estudante de **Análise e Desenvolvimento de Sistemas** e Desenvolvedor Web em formação.
 
-Atualmente participo da **Residência TIC-20 (UECE • Atlântico • Softex)**, desenvolvendo aplicações reais em equipe utilizando React.js, Tailwind CSS, APIs REST, Git e metodologias ágeis.
+Tenho foco no desenvolvimento de aplicações web utilizando JavaScript, React.js, TypeScript, Node.js, HTML, CSS e PostgreSQL.
 
-Tenho experiência prática no desenvolvimento Full Stack utilizando **React.js, TypeScript, Node.js, Prisma ORM e PostgreSQL**, sempre buscando escrever código limpo, reutilizável e escalável.
+Durante minha jornada, desenvolvi projetos Full Stack aplicando conceitos de desenvolvimento de interfaces responsivas, criação de APIs REST, integração com banco de dados e boas práticas de programação.
 
-🎯 **Objetivo:** conquistar uma oportunidade como Desenvolvedor Frontend ou Full Stack Júnior.
+Atualmente estou finalizando minha graduação em Análise e Desenvolvimento de Sistemas e aprimorando meus conhecimentos através de cursos complementares em tecnologias modernas, buscando evoluir como Desenvolvedor Frontend ou Full Stack Júnior.
+
+🎯 **Objetivo:** conquistar uma oportunidade como Desenvolvedor Frontend, Full Stack Júnior, Desenvoldedor de Software.
 
 ---
 

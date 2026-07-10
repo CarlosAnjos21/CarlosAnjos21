@@ -30,17 +30,17 @@
 
 ---
 
-# 🚀 Sobre mim
+🚀 Sobre mim
 
-Olá, sou Carlos Anjos, estudante de **Análise e Desenvolvimento de Sistemas** e Desenvolvedor Web em formação.
+Olá, sou Carlos Anjos, estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Web com foco em aplicações Full Stack.
 
-Tenho foco no desenvolvimento de aplicações web utilizando JavaScript, React.js, TypeScript, Node.js, HTML, CSS e PostgreSQL.
+Tenho experiência prática no desenvolvimento de aplicações utilizando JavaScript, React.js, TypeScript, Node.js, HTML, CSS e PostgreSQL.
 
-Durante minha jornada, desenvolvi projetos Full Stack aplicando conceitos de desenvolvimento de interfaces responsivas, criação de APIs REST, integração com banco de dados e boas práticas de programação.
+Ao longo da minha jornada, desenvolvi projetos Full Stack aplicando conceitos de criação de interfaces responsivas, desenvolvimento de APIs REST, integração com banco de dados, autenticação e boas práticas de programação.
 
-Atualmente estou finalizando minha graduação em Análise e Desenvolvimento de Sistemas e aprimorando meus conhecimentos através de cursos complementares em tecnologias modernas, buscando evoluir como Desenvolvedor Frontend ou Full Stack Júnior.
+Atualmente estou finalizando minha graduação e aprimorando meus conhecimentos através de cursos complementares em tecnologias modernas, buscando evoluir profissionalmente e contribuir em uma equipe de desenvolvimento.
 
-🎯 **Objetivo:** conquistar uma oportunidade como Desenvolvedor Frontend, Full Stack Júnior, Desenvoldedor de Software.
+🎯 Objetivo: conquistar uma oportunidade como Desenvolvedor Frontend, Full Stack Júnior ou Desenvolvedor de Software, contribuindo com soluções eficientes e evoluindo continuamente na área de tecnologia.
 
 ---
 
